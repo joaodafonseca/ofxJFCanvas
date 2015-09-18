@@ -1,2 +1,2 @@
 # ofxJFTimeLine
-timeline addon for OF WIP
+canvas addon for OF WIP
